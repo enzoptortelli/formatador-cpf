@@ -2,7 +2,7 @@
 Esse código formata os números do CPF conforme o usuário os insere. Escrito em puro JavaScript.
 
 Requisitos:
-a \<input\> tag do CPF deve conter os atributos type="text", maxlength="14" e required.</br>
+a \<input\> tag do CPF deve conter os atributos type="text" e maxlength="14".
 
 
 É aconselhavel, mas não necessário, que se use o atributo pattern para validar a formatção do cpf.</br>
