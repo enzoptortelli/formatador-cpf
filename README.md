@@ -1,4 +1,4 @@
-# formatador-cpf
+# formatador-cpf-javascript
 Esse código formata os números do CPF conforme o usuário os insere.
 
 Requisitos:
