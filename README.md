@@ -8,4 +8,4 @@ a \<input\> tag do CPF deve conter os atributos type="text" e maxlength="14".</b
 Como usar:
 apenas modifique o argumento da função querySelector() para que ela selecione a \<input\> do CPF.
 
-ATENÇÃO: esse código não valida o CPF, apenas o formata enquanto o usuário digita.
+<b>ATENÇÃO: Esse código utiliza tecnologia experimental. Para saber mais, acesse <\b> https://developer.mozilla.org/en-US/docs/Web/API/InputEvent
