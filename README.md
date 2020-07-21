@@ -1,7 +1,7 @@
 # formatador-cpf
 Esse código formata os números do CPF conforme o usuário os insere. Escrito em puro JavaScript.
 
-<bold>Requisitos:</bold>
+<b>Requisitos:</b>
 a \<input\> tag do CPF deve conter os atributos type="text" e maxlength="14".
 
 
