@@ -1,4 +1,4 @@
-// você deve mudar #NOME para o nome da <input> do cpf em seu site
+// você deve mudar #NOME para que a função querySelector selecione a <input> do cpf em seu site.
 let cpfInput = document.querySelector('#NOME');
 
 cpfInput.addEventListener('input', event => {
